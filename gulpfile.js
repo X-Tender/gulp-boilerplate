@@ -17,7 +17,7 @@ sass.compiler = require('node-sass');
 
 // PATHS
 
-const distPath = './dist';
+const distPath = './public/assets';
 const jsDistPath = `${distPath}/js`;
 const cssDistPath = `${distPath}/css/`;
 
