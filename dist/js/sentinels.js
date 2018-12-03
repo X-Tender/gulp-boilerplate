@@ -1,2 +1,0 @@
-!function(){var e=["accordeon","breadcrumb"];document.addEventListener("DOMContentLoaded",function(n){e.map(function(e){return null!=document.querySelector("[data-vhv-module-"+e+"]")?null:e}).filter(function(e){return null!=modleName}).forEach(function(e){var n,t;n=e,(t=document.createElement("script")).type="text/javascript",t.src=n+".js",t.async=!0,document.getElementsByTagName("head")[0].appendChild(t)})})}();
-//# sourceMappingURL=maps/sentinels.js.map
